@@ -1,7 +1,7 @@
-/usr/bin/python
+#!/usr/bin/python
 
 def main():
-  print "Hello world!"
-  
-if __name__=="__main__":
-    main()
+	print("Hello World!")
+
+if __name__=='__main__':
+	main()
